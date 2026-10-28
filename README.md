@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Betul. I also go by Betty~
-- 👀 I’m interested in (martial)-art, coffee, and topics in mental health 
-- 🌱 I’m currently learning how to code.
+- 👋 Hi
 
 
 <!---
